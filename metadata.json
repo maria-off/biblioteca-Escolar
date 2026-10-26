@@ -1,0 +1,6 @@
+{
+  "name": "Biblioteca Escolar Saber & Aventura",
+  "description": "Sistema completo da biblioteca escolar com acervo físico por gênero, controle de datas de empréstimo e devolução, opiniões e avaliações dos alunos, previsão de novos livros e painel para bibliotecário e aluno.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
